@@ -1,0 +1,5 @@
+﻿  AA3-1.c
+U:\FP.038 - (S) Fundamentos de programación\AA3\AA3-1\AA3-1.c(19,11): warning C4244: 'función': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+U:\FP.038 - (S) Fundamentos de programación\AA3\AA3-1\AA3-1.c(35,18): warning C4267: '+=': conversión de 'size_t' a 'int'; posible pérdida de datos
+U:\FP.038 - (S) Fundamentos de programación\AA3\AA3-1\AA3-1.c(36,19): warning C4267: '+=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  AA3-1.vcxproj -> U:\FP.038 - (S) Fundamentos de programación\AA3\AA3-1\x64\Debug\AA3-1.exe
